@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.315);
+}
+
+header h1{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: white;
+    font: normal 25pt Arial;
+}
+
+article{
+    height: 450px;
+    width: 500px;
+    border-radius: 15%;
+    background-color: white;
+    padding: 5px;
+    margin: auto;    
+}
+
+#msg{
+    text-align: center;
+    padding: 30px;
+    font: normal 25pt Arial;
+    color: black;
+}
+
+#foto{
+    margin: auto;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+footer{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: white;
+    font: italic 25pt Arial;
+} 
+
+main{
+    background-color: #815a0696;
+}
